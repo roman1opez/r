@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+
+
+body{
+background-color: #b4d4dc;
+font-family: "Montserrat", sans-serif;
+color: rgba(45, 52, 80, 1);
+font-weight: 300;
+font-size: 20px;
+text-align: justify;
+}
+
+header {
+width: 100%;
+height: 150px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+ul, h2, h1 {
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+}
+
+
+h1 {
+font-size: 65px;    
+text-align:center;
+width: 80%;
+display: block;
+margin: auto;
+}
+
+h2{ 
+    font-size: 40px;
+    text-decoration: underline; 
+    width: 80%;
+display: block;
+margin: auto;
+}
+
+
+img {
+border-radius: 50%;   
+width: 50%;
+display: block;
+margin: auto;
+}
+
+p {
+    width: 80%;
+display: block;
+margin: auto;
+}
+
+em { text-decoration:underline;
+    color: #c64578;    
+}
+
+strong{
+    color: #c64578;
+}
+#sub {
+
+    text-align: center;
+}
+
+
+
+
+
+.misubrayado{
+text-decoration:underline;
+}
+
+.color {
+    background-color: rgba(45, 52, 80, 1);
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+a{
+    font-family: "Outfit", sans-serif;
+
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+a:visited {
+    color: #ffffff;
+}
+    
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    background-color: #c64578;
+}
